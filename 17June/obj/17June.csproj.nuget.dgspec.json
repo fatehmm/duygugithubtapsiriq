@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fatehmmmdli/Projects/17June/17June/17June.csproj": {}
+    "/Users/fatehmmmdli/Desktop/duygugithubtapsiriq/17June/17June.csproj": {}
   },
   "projects": {
-    "/Users/fatehmmmdli/Projects/17June/17June/17June.csproj": {
+    "/Users/fatehmmmdli/Desktop/duygugithubtapsiriq/17June/17June.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fatehmmmdli/Projects/17June/17June/17June.csproj",
+        "projectUniqueName": "/Users/fatehmmmdli/Desktop/duygugithubtapsiriq/17June/17June.csproj",
         "projectName": "17June",
-        "projectPath": "/Users/fatehmmmdli/Projects/17June/17June/17June.csproj",
+        "projectPath": "/Users/fatehmmmdli/Desktop/duygugithubtapsiriq/17June/17June.csproj",
         "packagesPath": "/Users/fatehmmmdli/.nuget/packages/",
-        "outputPath": "/Users/fatehmmmdli/Projects/17June/17June/obj/",
+        "outputPath": "/Users/fatehmmmdli/Desktop/duygugithubtapsiriq/17June/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fatehmmmdli/.nuget/NuGet/NuGet.Config"

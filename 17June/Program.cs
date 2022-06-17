@@ -89,7 +89,7 @@ namespace _17June
                     break;
             }
 
-
+            Console.WriteLine("saliam");
 
         }
     }
