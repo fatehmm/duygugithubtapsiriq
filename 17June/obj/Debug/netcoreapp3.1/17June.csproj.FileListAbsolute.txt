@@ -1,0 +1,14 @@
+/Users/fatehmmmdli/Projects/17June/17June/bin/Debug/netcoreapp3.1/17June
+/Users/fatehmmmdli/Projects/17June/17June/bin/Debug/netcoreapp3.1/17June.deps.json
+/Users/fatehmmmdli/Projects/17June/17June/bin/Debug/netcoreapp3.1/17June.runtimeconfig.json
+/Users/fatehmmmdli/Projects/17June/17June/bin/Debug/netcoreapp3.1/17June.runtimeconfig.dev.json
+/Users/fatehmmmdli/Projects/17June/17June/bin/Debug/netcoreapp3.1/17June.dll
+/Users/fatehmmmdli/Projects/17June/17June/bin/Debug/netcoreapp3.1/17June.pdb
+/Users/fatehmmmdli/Projects/17June/17June/obj/Debug/netcoreapp3.1/17June.csproj.AssemblyReference.cache
+/Users/fatehmmmdli/Projects/17June/17June/obj/Debug/netcoreapp3.1/17June.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatehmmmdli/Projects/17June/17June/obj/Debug/netcoreapp3.1/17June.AssemblyInfoInputs.cache
+/Users/fatehmmmdli/Projects/17June/17June/obj/Debug/netcoreapp3.1/17June.AssemblyInfo.cs
+/Users/fatehmmmdli/Projects/17June/17June/obj/Debug/netcoreapp3.1/17June.csproj.CoreCompileInputs.cache
+/Users/fatehmmmdli/Projects/17June/17June/obj/Debug/netcoreapp3.1/17June.dll
+/Users/fatehmmmdli/Projects/17June/17June/obj/Debug/netcoreapp3.1/17June.pdb
+/Users/fatehmmmdli/Projects/17June/17June/obj/Debug/netcoreapp3.1/17June.genruntimeconfig.cache
